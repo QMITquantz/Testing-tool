@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 A. Verifying Daily Returns
 
-The Daily Return part of the code uses two files as inputs - 'LBO profile - 19y.xlsm' called "Returns" henceforth and '2008_2009_constituent_aws_ranked.xlsx' called "Positions" henceforth.
+The Daily Return part of the code uses two files as inputs - 'LBO - 24y.xlsx' called "Returns" henceforth and '2008_2009_constituent_aws_ranked.xlsx' called "Positions" henceforth.
 The code also has an additional feature to allow the client to verify the returns for a date range or a single date.
 	i. Once a date (range) is chosen, the Positions file is used to caluclate portfolio returns for the date (range). 
 	ii. The portfolio return for the same date (range) is pulled from the Returns file. This was the QMIT reported portfolio return. 
